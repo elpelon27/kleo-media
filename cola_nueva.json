@@ -1,0 +1,422 @@
+[
+ {
+  "clave": "feed_2026-10-28",
+  "tipo": "FEED",
+  "ts": 1793204100,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie28_higiene.png",
+  "caption": "¿De dónde viene el agua de tu botellón?\n\nLa mayoría recarga en la calle. Nosotros NO: retiramos tu botellón, lo higienizamos en nuestra estación y te lo devolvemos 100% limpio, con agua purificada y ozonizada. Ciclo cerrado. 🚰✨\n\nPide por WhatsApp — link en la bio.\n\n#BCV #USDT #DolarBCV #Venezuela #Maracaibo #Zulia #EstacionH2O #CicloCerrado #Higiene #AguaPurificada",
+  "estado": "publicada",
+  "media_id": "18114192944163811",
+  "publicada_en": "2026-10-28T16:20:23.196249+00:00"
+ },
+ {
+  "clave": "feed_2026-10-31",
+  "tipo": "FEED",
+  "ts": 1793463300,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab31_preservacion.png",
+  "caption": "El agua no se fabrica. Se cuida.\n\nCada botellón que higienizamos y rellenamos es un envase que NO termina en la basura. Recargar es preservar: menos desechos, menos trasvase, agua limpia para Maracaibo. ♻️💧\n\nHoy sábado despachamos hasta las 4 pm. Pide por WhatsApp — link en la bio.\n\n#BCV #USDT #DolarBCV #Venezuela #Maracaibo #Zulia #EstacionH2O #PreservacionDelAgua #MedioAmbiente #Sostenibilidad",
+  "estado": "publicada",
+  "media_id": "18081104957713704",
+  "publicada_en": "2026-10-31T18:42:32.973606+00:00"
+ },
+ {
+  "clave": "story_2026-10-26_0730",
+  "tipo": "STORIES",
+  "ts": 1793014200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun26_0730_arranque.png",
+  "caption": "Lunes. Botellones higienizados salen desde las 8 am ☀️ Pide por WhatsApp 👇 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18634068202036309",
+  "publicada_en": "2026-10-26T11:42:13.029593+00:00"
+ },
+ {
+  "clave": "story_2026-10-26_1500",
+  "tipo": "STORIES",
+  "ts": 1793041200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun26_1500_precios.png",
+  "caption": "RECARGA 1,00 € · HIELO 1,20 € — higienizado y a tu puerta 🚰❄️ wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17951640015323226",
+  "publicada_en": "2026-10-26T19:50:19.775902+00:00"
+ },
+ {
+  "clave": "story_2026-10-26_1930",
+  "tipo": "STORIES",
+  "ts": 1793057400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun26_1930_diferenciador.png",
+  "caption": "¿Sabías que la mayoría recarga tu botellón en la calle? Nosotros NO: lo higienizamos en nuestra estación 🔄✨ wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18080306168411122",
+  "publicada_en": "2026-10-26T23:35:28.392146+00:00"
+ },
+ {
+  "clave": "story_2026-10-27_0730",
+  "tipo": "STORIES",
+  "ts": 1793100600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar27_0730_agua.png",
+  "caption": "Tu botellón de hoy: agua purificada y ozonizada 🚰 Directo a tu puerta. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18132869938703373",
+  "publicada_en": "2026-10-27T11:35:28.655514+00:00"
+ },
+ {
+  "clave": "story_2026-10-27_1500",
+  "tipo": "STORIES",
+  "ts": 1793127600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar27_1500_hielo.png",
+  "caption": "HIELO 1,20 € la bolsa ❄️ Fresco para hoy (y la recarga a 1,00 €). wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18051132086812280",
+  "publicada_en": "2026-10-27T20:55:32.913390+00:00"
+ },
+ {
+  "clave": "story_2026-10-27_1930",
+  "tipo": "STORIES",
+  "ts": 1793143800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar27_1930_pesado.png",
+  "caption": "20 kilos en cada botellón. ¿Para qué cargarlos tú? 💪 Eso lo hacemos nosotros. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18035829107904846",
+  "publicada_en": "2026-10-27T23:40:16.806638+00:00"
+ },
+ {
+  "clave": "story_2026-10-28_0730",
+  "tipo": "STORIES",
+  "ts": 1793187000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie28_0730_mitad.png",
+  "caption": "¿Te queda agua? Mitad de semana: programa tu recarga hoy 📅 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18079871096398077",
+  "publicada_en": "2026-10-28T11:40:29.164740+00:00"
+ },
+ {
+  "clave": "story_2026-10-28_1500",
+  "tipo": "STORIES",
+  "ts": 1793214000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie28_1500_combo.png",
+  "caption": "PARA LA CASA: recarga 1,00 € + hielo 1,20 €. Un pedido y todo listo 🏠 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18126508985312916",
+  "publicada_en": "2026-10-28T22:56:47.734748+00:00"
+ },
+ {
+  "clave": "story_2026-10-28_1930",
+  "tipo": "STORIES",
+  "ts": 1793230200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie28_1930_ciclo.png",
+  "caption": "RETIRAMOS ➡️ HIGIENIZAMOS ➡️ DEVOLVEMOS. Ciclo cerrado, agua limpia 🔄 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18006524795795102",
+  "publicada_en": "2026-10-28T23:40:29.443896+00:00"
+ },
+ {
+  "clave": "story_2026-10-29_0730",
+  "tipo": "STORIES",
+  "ts": 1793273400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue29_0730_ruta.png",
+  "caption": "Choferes en ruta desde las 8 am 🛺 Dentro de la geocerca, a tu puerta. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17924038284225321",
+  "publicada_en": "2026-10-29T11:40:27.913340+00:00"
+ },
+ {
+  "clave": "story_2026-10-29_1500",
+  "tipo": "STORIES",
+  "ts": 1793300400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue29_1500_preciofijo.png",
+  "caption": "PRECIO DE SIEMPRE: recarga 1,00 € higienizada. Sin sorpresas, sin letra pequeña ✅ wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18143979187608909",
+  "publicada_en": "2026-10-29T19:05:28.101187+00:00"
+ },
+ {
+  "clave": "story_2026-10-29_1930",
+  "tipo": "STORIES",
+  "ts": 1793316600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue29_1930_peso.png",
+  "caption": "Cargar 20 kilos es cosa nuestra 💪 Tú solo recíbelo en tu puerta. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18078859163751430",
+  "publicada_en": "2026-10-29T23:40:21.269245+00:00"
+ },
+ {
+  "clave": "story_2026-10-30_0730",
+  "tipo": "STORIES",
+  "ts": 1793359800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie30_0730_viernes.png",
+  "caption": "Viernes: pide hoy y llega fresquita antes del fin de semana 🎉 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18274474573307144",
+  "publicada_en": "2026-10-30T11:35:31.256634+00:00"
+ },
+ {
+  "clave": "story_2026-10-30_1500",
+  "tipo": "STORIES",
+  "ts": 1793386800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie30_1500_finde.png",
+  "caption": "¿Finde sin agua? Pide HOY antes de las 6 pm ⏰ Recarga 1,00 € · Hielo 1,20 €. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17910401211664924",
+  "publicada_en": "2026-10-30T19:10:55.290535+00:00"
+ },
+ {
+  "clave": "story_2026-10-30_1930",
+  "tipo": "STORIES",
+  "ts": 1793403000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie30_1930_limpio.png",
+  "caption": "Tu botellón vuelve 100% limpio. Siempre. En estación, no en la calle 🔄💧 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17943839274381584",
+  "publicada_en": "2026-10-30T23:40:17.581486+00:00"
+ },
+ {
+  "clave": "story_2026-10-31_0730",
+  "tipo": "STORIES",
+  "ts": 1793446200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab31_0730_sabado.png",
+  "caption": "Sábado despachamos hasta las 4 pm ⏰ Pide ya tu recarga e hielo. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17994130221111640",
+  "publicada_en": "2026-10-31T11:35:16.944920+00:00"
+ },
+ {
+  "clave": "story_2026-10-31_1500",
+  "tipo": "STORIES",
+  "ts": 1793473200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab31_1500_precios.png",
+  "caption": "SÁBADO: recarga 1,00 € · hielo 1,20 € — despachamos hasta las 4 pm 🛺 wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18113587811594393",
+  "publicada_en": "2026-10-31T20:55:19.601746+00:00"
+ },
+ {
+  "clave": "story_2026-10-31_1930",
+  "tipo": "STORIES",
+  "ts": 1793489400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab31_1930_cierre.png",
+  "caption": "Mañana descansamos 😴 El lunes desde las 8 am, frescos en tu puerta. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18102648062642164",
+  "publicada_en": "2026-10-31T23:40:18.698547+00:00"
+ },
+ {
+  "clave": "story_2026-11-01_0730",
+  "tipo": "STORIES",
+  "ts": 1793532600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom01_0730_familia.png",
+  "caption": "Domingo en familia ☀️ Deja el agua lista para la semana: programa tu pedido. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "17867746536676538",
+  "publicada_en": "2026-11-01T11:35:17.221044+00:00"
+ },
+ {
+  "clave": "story_2026-11-01_1500",
+  "tipo": "STORIES",
+  "ts": 1793559600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom01_1500_precios.png",
+  "caption": "La semana arranca mañana: programa tu pedido 📅 Recarga 1,00 € · Hielo 1,20 €. wa.me/584122560721",
+  "estado": "publicada",
+  "media_id": "18114602660225574",
+  "publicada_en": "2026-11-01T19:08:12.485248+00:00"
+ },
+ {
+  "clave": "story_2026-11-01_1930",
+  "tipo": "STORIES",
+  "ts": 1793575800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom01_1930_lunes.png",
+  "caption": "Mañana lunes desde las 8 am en tu puerta 🚰 Sé de los primeros. wa.me/584122560721",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-02_0730",
+  "tipo": "STORIES",
+  "ts": 1793619000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun02_0730.png",
+  "caption": "ARRANCA TU SEMANA BIEN HIDRATADO Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-02_1500",
+  "tipo": "STORIES",
+  "ts": 1793646000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun02_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-02_1930",
+  "tipo": "STORIES",
+  "ts": 1793662200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun02_1930.png",
+  "caption": "RETIRAMOS. HIGIENIZAMOS. DEVOLVEMOS. Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-03_0730",
+  "tipo": "STORIES",
+  "ts": 1793705400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar03_0730.png",
+  "caption": "HIELO FRESCO DISPONIBLE HOY Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-03_1500",
+  "tipo": "STORIES",
+  "ts": 1793732400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar03_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-03_1930",
+  "tipo": "STORIES",
+  "ts": 1793748600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mar03_1930.png",
+  "caption": "AQUÍ NO SOLO SE LAVA: SE OZONIZA. Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-04_0730",
+  "tipo": "STORIES",
+  "ts": 1793791800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie04_0730.png",
+  "caption": "AGUA PURA Y OZONIZADA A DOMICILIO Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-04_1500",
+  "tipo": "STORIES",
+  "ts": 1793818800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie04_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-04_1930",
+  "tipo": "STORIES",
+  "ts": 1793835000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/mie04_1930.png",
+  "caption": "EN NUESTRA ESTACIÓN, NO EN LA CALLE. Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-05_0730",
+  "tipo": "STORIES",
+  "ts": 1793878200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue05_0730.png",
+  "caption": "LOS 20 KILOS LOS CARGAMOS NOSOTROS Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-05_1500",
+  "tipo": "STORIES",
+  "ts": 1793905200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue05_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-05_1930",
+  "tipo": "STORIES",
+  "ts": 1793921400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue05_1930.png",
+  "caption": "HIELO ENVASADO CON HIGIENE GARANTIZADA Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-06_0730",
+  "tipo": "STORIES",
+  "ts": 1793964600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie06_0730.png",
+  "caption": "HIDRATACIÓN PARA TODA LA FAMILIA Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-06_1500",
+  "tipo": "STORIES",
+  "ts": 1793991600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie06_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-06_1930",
+  "tipo": "STORIES",
+  "ts": 1794007800,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/vie06_1930.png",
+  "caption": "TU BOTELLÓN VUELVE 100% LIMPIO Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-07_0730",
+  "tipo": "STORIES",
+  "ts": 1794051000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab07_0730.png",
+  "caption": "SÁBADO DE SOL: AGUA Y HIELO LISTOS Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-07_1500",
+  "tipo": "STORIES",
+  "ts": 1794078000,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab07_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-07_1930",
+  "tipo": "STORIES",
+  "ts": 1794094200,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/sab07_1930.png",
+  "caption": "MOTOCARGA PROPIA, ENTREGA PUNTUAL Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-08_0730",
+  "tipo": "STORIES",
+  "ts": 1794137400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom08_0730.png",
+  "caption": "DOMINGO DE DESCANSO, NOSOTROS DESPACHAMOS Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-08_1500",
+  "tipo": "STORIES",
+  "ts": 1794164400,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom08_1500.png",
+  "caption": "Precios claros, agua pura, hielo fresco. 💧 Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "story_2026-11-08_1930",
+  "tipo": "STORIES",
+  "ts": 1794180600,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom08_1930.png",
+  "caption": "¿AGUA PIRATA? ASÍ NO SE CUIDA UNA FAMILIA. Agua a domicilio en Maracaibo — recarga 1,00 € e hielo 1,20 €. Pide antes de las 6 pm: 👉 https://wa.me/584122560721 #AguaMaracaibo #HieloMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "feed_2026-11-03",
+  "tipo": "FEED",
+  "ts": 1793722500,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/lun02_1215.png",
+  "caption": "LUN02 12:15 — calidad e higiene garantizadas. Agua a domicilio en Maracaibo. Pide por WhatsApp (link en la bio). #AguaMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "feed_2026-11-06",
+  "tipo": "FEED",
+  "ts": 1793895300,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/jue05_1215.png",
+  "caption": "JUE05 12:15 — calidad e higiene garantizadas. Agua a domicilio en Maracaibo. Pide por WhatsApp (link en la bio). #AguaMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ },
+ {
+  "clave": "feed_2026-11-09",
+  "tipo": "FEED",
+  "ts": 1794068100,
+  "image_url": "https://raw.githubusercontent.com/elpelon27/kleo-media/main/dom08_1215.png",
+  "caption": "DOM08 12:15 — calidad e higiene garantizadas. Agua a domicilio en Maracaibo. Pide por WhatsApp (link en la bio). #AguaMaracaibo #Maracaibo",
+  "estado": "pendiente"
+ }
+]
